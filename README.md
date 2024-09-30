@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Marina. Since 2023, I have been passionate about data analysis. Here I will share my projects and experiments.
+### My name is Marina. Since 2023, I have been passionate about data analysis. Here I will share my projects and experiments.
 <!--
 **Suvoriha/suvoriha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
