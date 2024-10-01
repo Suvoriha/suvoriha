@@ -1,6 +1,6 @@
 ## Hi there 👋
-### My name is Marina. Since 2023, I have been passionate about data analysis. Here I will share my projects and experiments.
-### Languages and Tools: 
+### Меня зовут Марина. С 2023 года я увлечена анализом данных. Здесь я буду делиться своими проектами и экспериментами.
+### Языки и инструменты: 
 - Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly)
 - PostgreSQL
 - Tableau
